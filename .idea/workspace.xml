@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b14925-3e8d-4a50-9b2b-f65cb9fd7335" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,15 +13,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="190">
-                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -31,6 +28,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>gems</find>
+      <find>gith</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -46,9 +44,9 @@
       <list>
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-03-sarah-pannell-gate.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -264,12 +262,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515008664966</updated>
-      <workItem from="1515008666369" duration="1842000" />
+      <workItem from="1515008666369" duration="1925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1842000" />
+    <option name="totallyTimeSpent" value="1925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="23" width="1283" height="877" extended-state="0" />
@@ -372,43 +370,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding>
-            <marker date="1515015031090" expanded="true" signature="121:130" ph="Zverbatim" />
-            <marker date="1515015031090" expanded="true" signature="198:230" ph="Colors an… Somewhere" />
-            <marker date="1515015031090" expanded="true" signature="316:398" ph="https://g…oppy-o.svg" />
-            <marker date="1515015031090" expanded="true" signature="588:939" ph="footer-links: &lt;13 keys&gt;" />
-            <marker date="1515015031090" expanded="true" signature="655:683" ph="zverbatim….github.io" />
-            <marker date="1515015031090" expanded="true" signature="1666:1668" ph="" />
-            <marker date="1515015031090" expanded="true" signature="1756:1764" ph="/:title/" />
-            <marker date="1515015031090" expanded="true" signature="1821:1827" ph="v1.2.0" />
-            <marker date="1515015031090" expanded="true" signature="1880:2192" ph="kramdown: &lt;3 keys&gt;" />
-            <marker date="1515015031090" expanded="true" signature="1978:1981" ph="GFM" />
-            <marker date="1515015031090" expanded="true" signature="2081:2086" ph="rouge" />
-            <marker date="1515015031090" expanded="true" signature="2089:2192" ph="syntax_hi…ghter_opts: &lt;1 key&gt;" />
-            <marker date="1515015031090" expanded="true" signature="2181:2192" ph="highlight" />
-            <marker date="1515015031090" expanded="true" signature="2253:2277" ph="sass: &lt;1 key&gt;" />
-            <marker date="1515015031090" expanded="true" signature="2268:2277" ph=":expanded" />
-            <marker date="1515015031090" expanded="true" signature="2355:2452" ph="gems: &lt;2 items&gt;" />
-            <marker date="1515015031090" expanded="true" signature="2365:2379" ph="jekyll-sitemap" />
-            <marker date="1515015031090" expanded="true" signature="2441:2452" ph="jekyll-feed" />
-            <marker date="1515015031090" expanded="true" signature="2560:2633" ph="exclude: &lt;5 items&gt;" />
-            <marker date="1515015031090" expanded="true" signature="2573:2580" ph="Gemfile" />
-            <marker date="1515015031090" expanded="true" signature="2585:2597" ph="Gemfile.lock" />
-            <marker date="1515015031090" expanded="true" signature="2602:2609" ph="LICENSE" />
-            <marker date="1515015031090" expanded="true" signature="2614:2623" ph="README.md" />
-            <marker date="1515015031090" expanded="true" signature="2628:2633" ph="CNAME" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="326">
+          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
           <folding>
             <marker date="1515015311449" expanded="true" signature="21:1513" ph="..." />
             <marker date="1515015311449" expanded="true" signature="28:709" ph="..." />
@@ -428,14 +404,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
