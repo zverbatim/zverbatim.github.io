@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b14925-3e8d-4a50-9b2b-f65cb9fd7335" name="Default" comment="100">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-01-09-j-attendrai.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-09-j-attendrai.md" afterPath="$PROJECT_DIR$/_posts/2017-01-09-j-attendrai.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/j-attendrai/index.html" afterPath="$PROJECT_DIR$/_site/j-attendrai/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/robots.txt" afterPath="$PROJECT_DIR$/_site/robots.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
     </list>
@@ -22,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-01-09-j-attendrai.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="133">
-                <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <first_editor relative-caret-position="190">
+                <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -852,12 +853,12 @@
       <workItem from="1515277962176" duration="423000" />
       <workItem from="1515424516381" duration="818000" />
       <workItem from="1515428001119" duration="763000" />
-      <workItem from="1515530987176" duration="961000" />
+      <workItem from="1515530987176" duration="1136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9184000" />
+    <option name="totallyTimeSpent" value="9359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="252" y="23" width="1188" height="877" extended-state="0" />
@@ -1209,8 +1210,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-01-09-j-attendrai.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="133">
-            <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
