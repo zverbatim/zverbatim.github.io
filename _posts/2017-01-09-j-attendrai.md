@@ -1,6 +1,7 @@
 ---
 layout: post
 title: J'attendrai - Ibrahim Maalouf, Melody Gardot
+image: /images/posts/MelodyGardot-JAttendrai.png
 ---
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:track:3Ks3YWCoSba0Le2zzQYxKM"

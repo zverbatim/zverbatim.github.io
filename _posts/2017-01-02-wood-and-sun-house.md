@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wood and sun house, NY
+image: /images/posts/07ONLOCATION-HASTINGS-slide-BOH4-superJumbo.jpg
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/posts/07ONLOCATION-HASTINGS-slide-ZI93-superJumbo.jpg)
