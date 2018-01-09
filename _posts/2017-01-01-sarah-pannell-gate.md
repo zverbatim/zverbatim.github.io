@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The gate!
+image: /images/posts/ignant-photography-sarah-pannell-anywhere-002.jpg
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/posts/ignant-photography-sarah-pannell-anywhere-002.jpg)
