@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Coconut milk, turmeric, nutmeg, cinnamon - Magic!
-image: /images/posts/MelodyGardot-JAttendrai.png
 ---
 
 A great calming drink found in nytimes. It is working. Tested.
