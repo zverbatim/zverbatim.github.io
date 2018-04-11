@@ -2,43 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b14925-3e8d-4a50-9b2b-f65cb9fd7335" name="Default" comment="100">
-      <change afterPath="$PROJECT_DIR$/_posts/2017-04-10-creek-house.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/100-certainity-vs-0-certainitity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/100-certainity-vs-0-certainitity/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/alabanian-saze-music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/alabanian-saze-music/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/alta-chalet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/alta-chalet/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/azul/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/azul/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/bad-news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bad-news/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/calming-drink-with-coconut-milk-turmeric-nutmeg-cinnamon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/calming-drink-with-coconut-milk-turmeric-nutmeg-cinnamon/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/dackar-rally-peugeot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/dackar-rally-peugeot/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/dance-in-the-world-series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/dance-in-the-world-series/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/great-fire-place/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/great-fire-place/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/haus-auf-der-tsechengla/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/haus-auf-der-tsechengla/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/ideal-size-of-window/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/ideal-size-of-window/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/j-attendrai/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/j-attendrai/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/landhaus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/landhaus/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/laundry-day/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/laundry-day/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/lianne-la-havas-say-a-little-prayer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/lianne-la-havas-say-a-little-prayer/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/moenda-house/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/moenda-house/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/new-patagonia-park/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/new-patagonia-park/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/office-furniture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/office-furniture/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/oppenheimbelairvilla/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/oppenheimbelairvilla/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sarah-pannell-gate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sarah-pannell-gate/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/slow-it-dow-amy-macdonald/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/slow-it-dow-amy-macdonald/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/snoboarding-on-fresh-snow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/snoboarding-on-fresh-snow/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/solid-wood-bed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/solid-wood-bed/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/speedskating-article-nytimes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/speedskating-article-nytimes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sun-dial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sun-dial/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/the-graph-of-the-year-cheehe-vs-kale/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/the-graph-of-the-year-cheehe-vs-kale/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/univers-law-by-emerson/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/univers-law-by-emerson/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/window-shutters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/window-shutters/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/wood-and-sun-house/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/wood-and-sun-house/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-10-creek-house.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-04-10-creek-house.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/The Moenda House By Felipe Rodrigues _ iGNANT.com_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/The Moenda House By Felipe Rodrigues _ iGNANT.com_files/ignant-architecture-felipe-rodrigues-moenda-house-004-2880x1923.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/The Moenda House By Felipe Rodrigues _ iGNANT.com_files/ignant-architecture-felipe-rodrigues-moenda-house-019-2880x1620.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/The Moenda House By Felipe Rodrigues _ iGNANT.com_files/jquery-migrate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/The Moenda House By Felipe Rodrigues _ iGNANT.com_files/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/The Moenda House By Felipe Rodrigues _ iGNANT.com_files/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/The Moenda House By Felipe Rodrigues _ iGNANT.com_files/scripts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/The Moenda House By Felipe Rodrigues _ iGNANT.com_files/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/The Moenda House By Felipe Rodrigues _ iGNANT.com_files/unn5tqh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,68 +24,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-04-09-moenda-house.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-moenda-house.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="408">
-                <caret line="17" selection-start-line="17" selection-end-line="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
+      <file leaf-file-name="07ONLOCATION-HASTINGS-slide-BOH4-superJumbo.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/_site/07ONLOCATION-HASTINGS-slide-BOH4-superJumbo.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="collagewasjpg-1440x1971.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/_site/collagewasjpg-1440x1971.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="Patagonia-slide-T6WY-superJumbo.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/_site/Patagonia-slide-T6WY-superJumbo.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="TKA-Landhaus-THeimann-05-2000x1500.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/_site/TKA-Landhaus-THeimann-05-2000x1500.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="Werkhaus_03.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/_site/Werkhaus_03.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="ignant-architecture-faulkner-architects-creek-house-07.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-faulkner-architects-creek-house-07.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="ignant-architecture-faulkner-architects-creek-house-16.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-faulkner-architects-creek-house-16.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="ignant-architecture-faulkner-architects-creek-house-30.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-faulkner-architects-creek-house-30.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="ignant-architecture-faulkner-architects-creek-house-18.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-faulkner-architects-creek-house-18.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="2017-04-10-creek-house.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-04-10-creek-house.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="72">
-                <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+              <first_editor relative-caret-position="622">
+                <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Faulkner_Martis1-2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-2.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Faulkner_Martis1-3496.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3496.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Faulkner_Martis1-3488.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3488.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Faulkner_Martis1-3477.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3477.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Faulkner_Martis1-3470.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3470.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Faulkner_Martis1-3457.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3457.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Faulkner_Martis1-3338.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3338.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Faulkner_Martis1_snow-9.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1_snow-9.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -222,8 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,29 +201,14 @@
             <path>
               <item name="zverbatim.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zverbatim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zverbatim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zverbatim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -958,12 +910,13 @@
       <workItem from="1520432584058" duration="64000" />
       <workItem from="1520432885485" duration="304000" />
       <workItem from="1523288625996" duration="495000" />
-      <workItem from="1523462910863" duration="720000" />
+      <workItem from="1523462910863" duration="796000" />
+      <workItem from="1523463961602" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24342000" />
+    <option name="totallyTimeSpent" value="24477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -979,10 +932,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2775551" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2775551" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3595238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3595238" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="3" />
@@ -1014,6 +967,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-moenda-house.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="408">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-10-creek-house.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="552">
+            <caret line="23" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-moenda-house.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1373,27 +1346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1_snow-9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3496.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3488.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3470.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3457.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3338.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-3477.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-moenda-house.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1404,14 +1356,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/Faulkner_Martis1-2.jpg">
+    <entry file="file://$PROJECT_DIR$/images/posts/_site/07ONLOCATION-HASTINGS-slide-BOH4-superJumbo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/_site/collagewasjpg-1440x1971.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/_site/Patagonia-slide-T6WY-superJumbo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/_site/TKA-Landhaus-THeimann-05-2000x1500.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/_site/Werkhaus_03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-faulkner-architects-creek-house-16.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-faulkner-architects-creek-house-07.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-faulkner-architects-creek-house-18.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-faulkner-architects-creek-house-30.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-10-creek-house.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <first_editor relative-caret-position="622">
+            <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           </first_editor>
           <second_editor />
         </state>
