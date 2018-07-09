@@ -2,28 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b14925-3e8d-4a50-9b2b-f65cb9fd7335" name="Default" comment="100">
-      <change afterPath="$PROJECT_DIR$/_posts/2017-05-29-house-burton.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/burton-house-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-07-09-aketuri-lake-side-villa.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-07-09-aketuri-trakouse.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-01-sarah-pannell-gate.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-02-wood-and-sun-house.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-04-the-graph-of-the-year-cheehe-vs-kale.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-05-lianne-la-havas-say-a-little-prayer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-05-univers-law-by-emerson.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-06-dance-in-the-world-series.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-08-100-certainity-vs-0-certainitity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-09-bad-news.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-09-j-attendrai.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-10-calming-drink-with-coconut-milk-turmeric-nutmeg-cinnamon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-10-dackar-rally-peugeot.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-11-great-fire-place.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-12-slow-it-dow-amy-macdonald.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-15-sun-dial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-18-laundry-day.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-19-alabanian-saze-music.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-19-oppenheimbelairvilla.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-22-ideal-size-of-window.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-23-snoboarding-on-fresh-snow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-29-speedskating-article-nytimes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-08-solid-wood-bed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-08-window-shutters.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-20-haus-auf-der-tsechengla.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-20-office-furniture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-21-new-patagonia-park.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-22-alta-chalet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-06-azul.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-07-landhaus.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-09-moenda-house.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-10-creek-house.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-17-creek-landscape.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-05-29-house-burton.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/100-certainity-vs-0-certainitity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/100-certainity-vs-0-certainitity/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
@@ -31,7 +44,6 @@
       <change beforePath="$PROJECT_DIR$/_site/alta-chalet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/alta-chalet/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/azul/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/azul/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/bad-news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bad-news/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/_site/build.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/calming-drink-with-coconut-milk-turmeric-nutmeg-cinnamon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/calming-drink-with-coconut-milk-turmeric-nutmeg-cinnamon/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/creek-house/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/creek-house/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/creek-landscape/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/creek-landscape/index.html" afterDir="false" />
@@ -40,6 +52,7 @@
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/great-fire-place/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/great-fire-place/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/haus-auf-der-tsechengla/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/haus-auf-der-tsechengla/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/house-burton/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/house-burton/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/ideal-size-of-window/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/ideal-size-of-window/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/j-attendrai/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/j-attendrai/index.html" afterDir="false" />
@@ -62,46 +75,107 @@
       <change beforePath="$PROJECT_DIR$/_site/univers-law-by-emerson/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/univers-law-by-emerson/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/window-shutters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/window-shutters/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/wood-and-sun-house/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/wood-and-sun-house/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-389883806">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="md" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Markdown" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="44" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-04-17-creek-landscape.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-04-17-creek-landscape.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="126">
-                <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-05-29-house-burton.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-house-burton.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="63">
-                <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.sh" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-04-17-creek-landscape.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-05-29-house-burton.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="21">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-aketuri-lake-side-villa.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="297">
+                <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-aketuri-trakouse.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="302">
+                <caret line="36" selection-start-line="36" selection-end-line="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -128,12 +202,17 @@
       <find>burtonburton</find>
       <find>bu</find>
       <find>.jpg</find>
+      <find>jpg</find>
+      <find>Vytenio-sodyba_aketuri-architektai</find>
     </findStrings>
     <replaceStrings>
       <replace>\n</replace>
       <replace>![_config.yml]({{ site.baseurl }}/images/posts/oppenheim-belair/RD</replace>
       <replace>![_config.yml]({{ site.baseurl }}/images/posts/bu</replace>
       <replace>.jpg)</replace>
+      <replace>.jpg\n</replace>
+      <replace>jpg)</replace>
+      <replace>aketuriarchitektai_namas-trakuose</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -142,9 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-01-03-liane-la-havas.md" />
-        <option value="$PROJECT_DIR$/_plugins/youtube.rb" />
-        <option value="$PROJECT_DIR$/_posts/2017-01-03-lianne-la-havas-say-a-little-prayer.md" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_posts/2017-01-05-univers-law-by-emerson.md" />
         <option value="$PROJECT_DIR$/_drafts/2017-01-03-lianne-la-havas-say-a-little-prayer.md" />
@@ -191,8 +267,11 @@
         <option value="$PROJECT_DIR$/_posts/2017-04-09-moenda-house.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-10-creek-house.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-17-creek-landscape.md" />
-        <option value="$PROJECT_DIR$/build.sh" />
         <option value="$PROJECT_DIR$/_posts/2017-05-29-house-burton.md" />
+        <option value="$PROJECT_DIR$/build.sh" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-29-house-burton.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-09-aketuri-trakouse.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-09-aketuri-lake-side-villa.md" />
       </list>
     </option>
   </component>
@@ -208,9 +287,6 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="53" />
@@ -218,13 +294,64 @@
     <option name="width" value="1627" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter" />
+    <factor id="binaryFeature:liftShorterClasses" />
+    <factor id="binaryFeature:middleMatching" />
+    <factor id="binaryFeature:nonGeneric" />
+    <factor id="binaryFeature:prox_inResolveScope" />
+    <factor id="binaryFeature:prox_openedInEditor" />
+    <factor id="binaryFeature:prox_sameDirectory" />
+    <factor id="binaryFeature:prox_sameLogicalRoot" />
+    <factor id="binaryFeature:prox_sdkOrLibrary" />
+    <factor id="binaryFeature:templates" />
+    <factor id="categoricalFeature:accessible" />
+    <factor id="categoricalFeature:expectedType" />
+    <factor id="categoricalFeature:kind" />
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher" />
+    <factor id="categoricalFeature:prox_javaInheritance" />
+    <factor id="categoricalFeature:prox_referenceList" />
+    <factor id="categoricalFeature:recursion" />
+    <factor id="completionFinishedType">
+      <dailyData date="9-7-2018">
+        <observation name="cancelled" value="28.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType" />
+    <factor id="completionUsage">
+      <dailyData date="9-7-2018">
+        <observation name="count" value="28.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity" />
+    <factor id="doubleFeature:grouping" />
+    <factor id="doubleFeature:mostUsed" />
+    <factor id="doubleFeature:nameEnd" />
+    <factor id="doubleFeature:position" />
+    <factor id="doubleFeature:prefix" />
+    <factor id="doubleFeature:priority" />
+    <factor id="doubleFeature:prox_explicitlyImported" />
+    <factor id="doubleFeature:prox_knownElement" />
+    <factor id="doubleFeature:prox_sameModule" />
+    <factor id="doubleFeature:prox_samePsiMember" />
+    <factor id="doubleFeature:query_length" />
+    <factor id="doubleFeature:result_length" />
+    <factor id="doubleFeature:sameWords" />
+    <factor id="doubleFeature:shorter" />
+    <factor id="doubleFeature:simple" />
+    <factor id="doubleFeature:sorter" />
+    <factor id="doubleFeature:statics" />
+    <factor id="doubleFeature:stats" />
+    <factor id="itemPosition" />
+    <factor id="mnemonicsUsage" />
+    <factor id="prefixLength" />
+    <factor id="timeBetweenTyping" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,10 +375,19 @@
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zverbatim.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+              <item name="aketuri-trakouse" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -263,13 +399,13 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/images/posts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_drafts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/posts" />
-      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,85 +421,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -389,17 +446,6 @@
         <option name="SUPPORT_LIB_ENABLED" value="true" />
         <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -652,6 +698,55 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -659,6 +754,7 @@
       <tasks />
       <arguments />
       <envs />
+      <method v="2" />
     </configuration>
   </component>
   <component name="SbtLocalSettings">
@@ -722,53 +818,55 @@
       <workItem from="1523462910863" duration="796000" />
       <workItem from="1523463961602" duration="112000" />
       <workItem from="1523979285117" duration="102000" />
-      <workItem from="1527706583460" duration="654000" />
+      <workItem from="1527706583460" duration="877000" />
+      <workItem from="1527711848306" duration="1000" />
+      <workItem from="1531169082707" duration="757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25286000" />
+    <option name="totallyTimeSpent" value="26267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.45390782" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3595238" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36385837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Learn" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Data View" order="3" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32982457" />
-      <window_info id="Nl-Palette" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="right" id="R Packages" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Properties" order="3" />
-      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32982457" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.45306122" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Data View" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Properties" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
+      <window_info anchor="right" id="SciView" order="13" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -778,56 +876,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-17-creek-landscape.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-10-creek-house.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="264">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-moenda-house.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="408">
-            <caret line="17" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-10-creek-house.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="552">
-            <caret line="23" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-moenda-house.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="408">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -1193,6 +1241,16 @@
     <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-williamson-williamson-the-house-on-ancaster-creek-09.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-house-burton.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="63">
+            <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-17-creek-landscape.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1206,15 +1264,50 @@
     <entry file="file://$PROJECT_DIR$/build.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-29-house-burton.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-17-creek-landscape.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-29-house-burton.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="21">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-aketuri-trakouse.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="302">
+            <caret line="36" selection-start-line="36" selection-end-line="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-aketuri-lake-side-villa.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="63">
-            <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <first_editor relative-caret-position="297">
+            <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           </first_editor>
           <second_editor />
         </state>
