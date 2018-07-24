@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b14925-3e8d-4a50-9b2b-f65cb9fd7335" name="Default" comment="100">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-07-25-slatte-house.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-24-slate-house.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-24-slate-house.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/posts/slate-house/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/posts/slate-house/15.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,105 +28,64 @@
     <session id="-389883806">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="1" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="2" />
+          <entry key="html" value="3" />
           <entry key="jpg" value="29" />
-          <entry key="md" value="6" />
-          <entry key="txt" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="md" value="15" />
+          <entry key="sh" value="1" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="Bash" value="1" />
+          <entry key="HTML" value="3" />
           <entry key="Image" value="29" />
-          <entry key="Markdown" value="6" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="XML" value="1" />
+          <entry key="Markdown" value="14" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="7" />
-          <entry key="md" value="159" />
+          <entry key="md" value="163" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="7" />
-          <entry key="Markdown" value="159" />
+          <entry key="Markdown" value="163" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/slate-house/07.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/slate-house/10.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/slate-house/11.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/slate-house/12.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/slate-house/13.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/slate-house/14.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/slate-house/15.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-slatte-house.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-07-24-slate-house.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="126">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <first_editor relative-caret-position="147">
+                <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/slate-house/01.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/posts/slate-house/04.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -165,9 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_drafts/2017-01-03-lianne-la-havas-say-a-little-prayer.md" />
-        <option value="$PROJECT_DIR$/_includes/analytics.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-06-dance-in-the-world-series.md" />
@@ -216,6 +185,9 @@
         <option value="$PROJECT_DIR$/_posts/2018-07-09-aketuri-trakouse.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-15-torres-leed.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-25-slatte-house.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-25-slate-house.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-01-torres-leed-2.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-24-slate-house.md" />
       </list>
     </option>
   </component>
@@ -239,23 +211,6 @@
     <option name="height" value="1027" />
   </component>
   <component name="ProjectUserFactors">
-    <factor id="binaryFeature:liftShorter" />
-    <factor id="binaryFeature:liftShorterClasses" />
-    <factor id="binaryFeature:middleMatching" />
-    <factor id="binaryFeature:nonGeneric" />
-    <factor id="binaryFeature:prox_inResolveScope" />
-    <factor id="binaryFeature:prox_openedInEditor" />
-    <factor id="binaryFeature:prox_sameDirectory" />
-    <factor id="binaryFeature:prox_sameLogicalRoot" />
-    <factor id="binaryFeature:prox_sdkOrLibrary" />
-    <factor id="binaryFeature:templates" />
-    <factor id="categoricalFeature:accessible" />
-    <factor id="categoricalFeature:expectedType" />
-    <factor id="categoricalFeature:kind" />
-    <factor id="categoricalFeature:prox_groovyReferenceListWeigher" />
-    <factor id="categoricalFeature:prox_javaInheritance" />
-    <factor id="categoricalFeature:prox_referenceList" />
-    <factor id="categoricalFeature:recursion" />
     <factor id="completionFinishedType">
       <dailyData date="9-7-2018">
         <observation name="cancelled" value="35.0" />
@@ -264,10 +219,9 @@
         <observation name="cancelled" value="26.0" />
       </dailyData>
       <dailyData date="24-7-2018">
-        <observation name="cancelled" value="34.0" />
+        <observation name="cancelled" value="36.0" />
       </dailyData>
     </factor>
-    <factor id="completionType" />
     <factor id="completionUsage">
       <dailyData date="9-7-2018">
         <observation name="count" value="35.0" />
@@ -276,38 +230,18 @@
         <observation name="count" value="26.0" />
       </dailyData>
       <dailyData date="24-7-2018">
-        <observation name="count" value="34.0" />
+        <observation name="count" value="36.0" />
       </dailyData>
     </factor>
-    <factor id="doubleFeature:explicitProximity" />
-    <factor id="doubleFeature:grouping" />
-    <factor id="doubleFeature:mostUsed" />
-    <factor id="doubleFeature:nameEnd" />
-    <factor id="doubleFeature:position" />
-    <factor id="doubleFeature:prefix" />
-    <factor id="doubleFeature:priority" />
-    <factor id="doubleFeature:prox_explicitlyImported" />
-    <factor id="doubleFeature:prox_knownElement" />
-    <factor id="doubleFeature:prox_sameModule" />
-    <factor id="doubleFeature:prox_samePsiMember" />
-    <factor id="doubleFeature:query_length" />
-    <factor id="doubleFeature:result_length" />
-    <factor id="doubleFeature:sameWords" />
-    <factor id="doubleFeature:shorter" />
-    <factor id="doubleFeature:simple" />
-    <factor id="doubleFeature:sorter" />
-    <factor id="doubleFeature:statics" />
-    <factor id="doubleFeature:stats" />
-    <factor id="itemPosition" />
-    <factor id="mnemonicsUsage" />
-    <factor id="prefixLength" />
-    <factor id="timeBetweenTyping" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,39 +254,19 @@
               <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="zverbatim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zverbatim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zverbatim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-              <item name="slate-house" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532446444993" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -779,18 +693,19 @@
       <workItem from="1531169082707" duration="1164000" />
       <workItem from="1531183618611" duration="572000" />
       <workItem from="1531793829845" duration="659000" />
-      <workItem from="1532444945508" duration="368000" />
+      <workItem from="1532444945508" duration="1442000" />
+      <workItem from="1532447551684" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28273000" />
+    <option name="totallyTimeSpent" value="29351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37667888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -809,7 +724,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.45306122" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -831,16 +746,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-15-sun-dial.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-18-laundry-day.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-19-alabanian-saze-music.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-19-oppenheimbelairvilla.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-23-snoboarding-on-fresh-snow.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-22-ideal-size-of-window.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-01-29-speedskating-article-nytimes.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-08-solid-wood-bed.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -903,33 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-aketuri-trakouse.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="420">
-            <caret line="20" selection-start-line="20" selection-end-line="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2793">
-          <caret line="133" column="1" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/robots.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/posts/torres_leed/09_Torres-Residence_fullrez.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -947,22 +855,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/slatte-house/l_zs-slatehouse-0553-edit-web.jpg.1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-15-torres-leed.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="315">
-            <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/slate-house/08.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/slatte-house/l_zs-slatehouse-0553-edit-web.jpg.1" />
     <entry file="file://$PROJECT_DIR$/images/posts/slate-house/02.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -996,20 +889,94 @@
     <entry file="file://$PROJECT_DIR$/images/posts/slate-house/12.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/slate-house/15.jpg" />
+    <entry file="file://$PROJECT_DIR$/_site/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="133" column="1" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="188" column="134" selection-start-line="188" selection-start-column="134" selection-end-line="188" selection-end-column="134" />
+          <folding>
+            <element signature="e#823#827#0" expanded="true" />
+            <element signature="e#828#832#0" expanded="true" />
+            <element signature="e#832#836#0" expanded="true" />
+            <element signature="e#844#850#0" expanded="true" />
+            <element signature="e#907#913#0" expanded="true" />
+            <element signature="e#918#924#0" expanded="true" />
+            <element signature="e#935#941#0" expanded="true" />
+            <element signature="e#943#947#0" expanded="true" />
+            <element signature="e#947#951#0" expanded="true" />
+            <element signature="e#953#957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-foo.md" />
+    <entry file="file://$PROJECT_DIR$/images/posts/slate-house/14.jpg" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-slate-house.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-09-aketuri-trakouse.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="441">
+            <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/posts/slate-house/13.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/slate-house/14.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/slate-house/15.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-slatte-house.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-15-torres-leed.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="126">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <first_editor>
+            <caret selection-end-line="5" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/script.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21603" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-24-slate-house.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="147">
+            <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>

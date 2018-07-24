@@ -1,26 +1,33 @@
 ---
 layout: post
-title: Torres LEED 2
-image: /images/posts/torres_leed/09_Torres-Residence_fullrez.jpg
+title: Ziger / Snead - Slate house
+image: /images/posts/slate-house/01.jpg
 
 ---
 
-![_config.yml]({{ site.baseurl }}/images/posts/torres_leed/09_Torres-Residence_fullrez.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/01.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/posts/torres_leed/15_Torres-Residence_fullrez.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/02.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/posts/torres_leed/22_Torres-Residence_fullrez.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/03.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/posts/torres_leed/23_Torres-Residence_fullrez.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/04.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/posts/torres_leed/28_Torres-Residence_fullrez.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/05.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/posts/torres_leed/30_Torres-Residence_fullrez.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/06.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/posts/torres_leed/31_Torres-Residence_fullrez.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/07.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/posts/torres_leed/34_Torres-Residence_fullrez.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/08.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/posts/torres_leed/36_Torres-Residence_fullrez.jpg)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/10.jpg)
 
-[Source](http://studioschicketanz.com/Projects/torres-leed/)
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/11.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/12.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/posts/slate-house/13.jpg)
+
+
+[Source](http://www.zigersnead.com/projects/details/slate-house/)
