@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34b14925-3e8d-4a50-9b2b-f65cb9fd7335" name="Default" comment="100">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-08-01-136-k-house.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-09-10-cloverdale-avenue-office.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/100-certainity-vs-0-certainitity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/100-certainity-vs-0-certainitity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/136-k-house/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/136-k-house/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/aketuri-lake-side-villa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/aketuri-lake-side-villa/index.html" afterDir="false" />
@@ -57,13 +58,13 @@
     <session id="-389883806">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -72,7 +73,7 @@
           <entry key="gitignore" value="1" />
           <entry key="html" value="3" />
           <entry key="jpg" value="42" />
-          <entry key="md" value="16" />
+          <entry key="md" value="17" />
           <entry key="sh" value="1" />
           <entry key="txt" value="2" />
           <entry key="xml" value="4" />
@@ -83,7 +84,7 @@
           <entry key="Bash" value="1" />
           <entry key="HTML" value="3" />
           <entry key="Image" value="42" />
-          <entry key="Markdown" value="15" />
+          <entry key="Markdown" value="16" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="4" />
@@ -92,13 +93,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="7" />
-          <entry key="md" value="208" />
+          <entry key="md" value="243" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="7" />
-          <entry key="Markdown" value="208" />
+          <entry key="Markdown" value="243" />
         </counts>
       </usages-collector>
     </session>
@@ -110,9 +111,21 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0022.jpg">
           <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-09-10-cloverdale-avenue-office.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -202,7 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-06-dance-in-the-world-series.md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-078-the-mindfulness-.md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-08-100-certainity-vs-0-certainitity.md" />
@@ -253,6 +265,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-08-01-torres-leed-2.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-24-slate-house.md" />
         <option value="$PROJECT_DIR$/_posts/2018-08-01-136-k-house.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-10-cloverdale-avenue-office.md" />
       </list>
     </option>
   </component>
@@ -309,9 +322,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -340,7 +353,7 @@
               <item name="zverbatim.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="posts" type="462c0819:PsiDirectoryNode" />
-              <item name="soup_architects_236_k" type="462c0819:PsiDirectoryNode" />
+              <item name="cloverdale-avenue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -357,13 +370,13 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/_drafts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/images/posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_drafts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -783,18 +796,19 @@
       <workItem from="1531793829845" duration="659000" />
       <workItem from="1532444945508" duration="1442000" />
       <workItem from="1532447551684" duration="164000" />
-      <workItem from="1533238055396" duration="480000" />
+      <workItem from="1533238055396" duration="568000" />
+      <workItem from="1536610345144" duration="141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29991000" />
+    <option name="totallyTimeSpent" value="30220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27106228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -810,7 +824,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.45306122" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.45306122" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32959184" />
@@ -865,7 +879,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-moenda-house.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-10-creek-house.md" />
     <entry file="file://$PROJECT_DIR$/images/posts/ignant-architecture-williamson-williamson-the-house-on-ancaster-creek-09.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -1067,32 +1080,42 @@
     <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0051.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0050.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0043.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0042.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0034.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0032.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0026.jpg">
+    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0024.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0019.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0024.jpg">
+    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0026.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0032.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0034.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0042.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0043.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0050.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/posts/soup_architects_236_k/AMAT-0144-0022.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-10-cloverdale-avenue-office.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
