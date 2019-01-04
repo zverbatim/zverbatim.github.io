@@ -1,7 +1,7 @@
 ---
 layout: post
 title: House of 4 houses
-image: /images/posts/house_of_4_houses/PROD_House_of_four_houses_west_view.jpg)s
+image: /images/posts/house_of_4_houses/PROD_House_of_four_houses_west_view.jpg)
 
 ---
 
